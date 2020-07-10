@@ -1,0 +1,2 @@
+The idea behind this game is to create a 3d third-person view version of a popular mobile game Geometry Dash.
+This current version is a totall mess and might be buggy, not to mention how incomplete it is, but it's playable, addicting and challenging, so it makes me a proud creator of this mess of a game :) 
